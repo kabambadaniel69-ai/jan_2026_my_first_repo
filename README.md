@@ -12,7 +12,7 @@ Name: DANIEL KABAMBA
 Student Number: 202610155499
 
 
-Course Code     (ICT113 )
+Course Code     ( ICT113 )
 
 
 Course Title   ( C Programming )
