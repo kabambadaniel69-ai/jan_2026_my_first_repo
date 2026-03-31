@@ -3,20 +3,15 @@
 Title: Creating your first Git Repository
 
 
-Question: Creating a GitHub repository named: jan_2026_my_first_repo
-
+Question: Creating a GitHub repository named: jan_2026_my_first_repo 
 
 Name: DANIEL KABAMBA
 
-
 Student Number: 202610155499
-
 
 Course Code     ( ICT113 )
 
-
 Course Title   ( C Programming )
-
 
  Learning C programming is considered a foundation milestone for developers, it bridges the gap between high-level logic and physical hardware. Unlike languages like Python or Java, C is a 'mid_level' language that exposes how a computer actually works.
  
