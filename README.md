@@ -28,4 +28,4 @@ Course Title   ( C Programming )
  
  It is very fast and efficient.
  
- If you understand how to write a dynamic array or linked list manually in C using malloc and free, you'll better understand how higher-level structures like Java's ArrayList or Pythons list muight behave in terms of memory use and perfomance.
+ If you understand how to write a dynamic array or linked list manually in C using malloc and free, you'll better understand how higher-level structures like Java's ArrayList or Pythons list might behave in terms of memory use and perfomance.
